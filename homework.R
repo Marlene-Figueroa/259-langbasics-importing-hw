@@ -18,7 +18,7 @@
 # Load the readr package
 
 # ANSWER
-okayhw
+library(readr)
 
 
 ### QUESTION 2 ----- 
